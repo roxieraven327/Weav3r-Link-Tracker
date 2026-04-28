@@ -32,6 +32,10 @@ so you don’t waste time reopening the same ones.
 - ⚡ Lightweight (no slowdown)  
 - 🔄 Auto-updates via GitHub  
 
+## 📱 PDA Compatible
+
+Works on Torn PDA (mobile).
+
 ---
 
 ## 👑 Author
