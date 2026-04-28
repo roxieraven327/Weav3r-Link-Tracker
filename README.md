@@ -18,6 +18,10 @@ If the install doesn’t trigger, open the link and click **Raw**.
 Adds a subtle ✓ next to bazaar names you've already clicked  
 so you don’t waste time reopening the same ones.
 
+## Preview
+
+![preview](QoL Bazaar Weav3r.png)
+
 ---
 
 ## 🧠 Features
