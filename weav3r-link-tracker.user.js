@@ -6,6 +6,7 @@
 // @author       Roxie (Chaos Engineering)
 // @match        https://weav3r.dev/dollar-bazaars*
 // @match        https://weav3r.dev/dollar-bazaars/*
+// @downloadURL  https://raw.githubusercontent.com/roxieraven327/Weav3r-Link-Tracker/main/weav3r-link-tracker.user.js
 // @grant        none
 // ==/UserScript==
 
