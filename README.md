@@ -20,7 +20,7 @@ so you don’t waste time reopening the same ones.
 
 ## Preview
 
-![preview](QoL Bazaar Weav3r.png)
+![preview](Preview.png)
 
 ---
 
